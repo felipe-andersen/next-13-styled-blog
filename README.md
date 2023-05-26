@@ -1,1 +1,1 @@
-## Mini Blog Application - Evo Tech
+## Mini Blog Application
